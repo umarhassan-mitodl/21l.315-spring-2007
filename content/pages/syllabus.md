@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, reading, quizzes, participation, take-home exams, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

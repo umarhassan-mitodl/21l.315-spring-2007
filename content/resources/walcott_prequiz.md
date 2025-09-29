@@ -4,6 +4,8 @@ description: This resource contains guidelines and instructions for the Walcott 
 file: /courses/21l-315-prizewinners-spring-2007/827399133f1443a4d690be3280b6dc31_walcott_prequiz.pdf
 file_size: 13240
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

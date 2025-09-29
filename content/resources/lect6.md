@@ -5,6 +5,8 @@ description: Partial transcript of class discussion about Seamus Heaney and The 
 file: /courses/21l-315-prizewinners-spring-2007/702f45e8513fd3bc23bebdfb4ef989c7_lect6.pdf
 file_size: 18199
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

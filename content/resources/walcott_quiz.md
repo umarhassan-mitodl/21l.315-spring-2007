@@ -4,6 +4,8 @@ description: This resource contains an in-class quiz on Walcott.
 file: /courses/21l-315-prizewinners-spring-2007/b78b00cca111d799e7e6cd2c7786bc55_walcott_quiz.pdf
 file_size: 23993
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides partial transcripts of class discussions, rather
   than lecture notes, and may not represent the instructor's views fully or exactly.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

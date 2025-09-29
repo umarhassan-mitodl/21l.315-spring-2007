@@ -5,6 +5,8 @@ description: Partial transcript of class discussion about Derek Walcott and In a
 file: /courses/21l-315-prizewinners-spring-2007/ecd8e5822722e56a90582153da441a19_lect7.pdf
 file_size: 20299
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains an in-class quiz on Healey.
 file: /courses/21l-315-prizewinners-spring-2007/0c3b984243f0eedc836c0e9e10098dd7_heaney_quiz.pdf
 file_size: 80963
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

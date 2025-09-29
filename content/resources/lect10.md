@@ -5,6 +5,8 @@ description: Partial transcript of class discussion about Derek Walcott, The Sta
 file: /courses/21l-315-prizewinners-spring-2007/5f4ef2b7494b19d06e4519460ca0b992_lect10.pdf
 file_size: 28935
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
