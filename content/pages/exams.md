@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on course exams. Each section of the
   course included two exams, one in-class quiz and one take-home essay exam. Materials
   given to the students in preparation for the exams are also included here.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

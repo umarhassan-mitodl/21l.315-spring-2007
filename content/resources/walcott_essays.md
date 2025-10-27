@@ -4,8 +4,6 @@ description: This resource contains a take-home exam on Walcott.
 file: /courses/21l-315-prizewinners-spring-2007/4ac207ec224e1f90f20acfdd3997219d_walcott_essays.pdf
 file_size: 13237
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

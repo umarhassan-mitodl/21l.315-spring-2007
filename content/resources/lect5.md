@@ -5,8 +5,6 @@ description: Partial transcript of class discussion about Seamus Heaney, Field W
 file: /courses/21l-315-prizewinners-spring-2007/d999c3f5ecd9f44ec362458f4d929d42_lect5.pdf
 file_size: 21420
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,8 +3,6 @@ content_type: page
 description: The schedule of readings and assignments is presented here. Titles indicate
   the original volumes in which poems appeared; selected poems were assigned from
   each volume.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
